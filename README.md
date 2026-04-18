@@ -6,6 +6,6 @@ Manipulação de Objetos e Arrays utilizando JSON
 - Nome: Sara da Cruz Freitas
 - Matricula: 907539
 
-## Um print da tela com o Console do navegador mostrando a execução do programa (resultado do console.log)
+## Um print da página mostrando o resumo dentro da div#output
 
 ![Print](devtools.png)
